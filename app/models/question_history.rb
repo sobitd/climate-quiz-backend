@@ -1,0 +1,2 @@
+class QuestionHistory < ApplicationRecord
+end
